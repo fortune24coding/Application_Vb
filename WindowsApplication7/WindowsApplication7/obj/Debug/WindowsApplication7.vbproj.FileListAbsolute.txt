@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2012\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+c:\users\user\documents\visual studio 2012\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+c:\users\user\documents\visual studio 2012\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+c:\users\user\documents\visual studio 2012\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+c:\users\user\documents\visual studio 2012\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Form2.resources
+c:\users\user\documents\visual studio 2012\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+c:\users\user\documents\visual studio 2012\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+c:\users\user\documents\visual studio 2012\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+c:\users\user\documents\visual studio 2012\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Form3.resources
+C:\Users\user\documents\visual studio 2012\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Form4.resources
